@@ -164,13 +164,7 @@ I believe technology should solve practical problems and create meaningful impac
 
 ---
 
-# 📈 GitHub Activity
 
-![](https://github-readme-stats.shion.dev/api?username=imsakararyal99&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com/?user=imsakararyal99&theme=tokyonight&hide_border=true)
-
----
 
 🌍 **Portfolio**  
 **https://sakararyal.vercel.app/**
