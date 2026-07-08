@@ -22,9 +22,18 @@ My goal is to combine **React Native**, **AWS**, and **Generative AI** to create
 
 ---
 
+# 💼 Professional Roles
+
+| Role | Company | Focus |
+|---|---|---|
+| Senior Software Engineer II | [Teksewa Pvt Ltd](https://teksewa.com) | Developing cutting-edge software solutions for diverse industries |
+| Tech Lead, Hospitality & Wellness | [Himalayan Nirvana Resort](https://hnresort.com) | Leading technology and digital strategy for a resort launching Jan 2027 |
+
+---
+
 # 🌟 Featured Projects
 
-## 🏔️ Himalayan Nirvana Resort (Technology & Digital Strategy Lead)
+## 🏔️ Himalayan Nirvana Resort (Tech Lead, Hospitality & Wellness)
 
 Leading the digital transformation of a hospitality & wellness startup from pre-launch (opening January 2027).
 
@@ -38,7 +47,6 @@ Leading the digital transformation of a hospitality & wellness startup from pre-
 - Branding
 - System Design
 - Product Strategy
-
 
 **Current Goal**
 Building an AI-powered digital experience for guests using AWS Cloud services.
@@ -95,14 +103,19 @@ Areas of experience include:
 - Enterprise architecture
 - Mobile UI/UX
 
+**Featured client apps** *(private, client-owned code)*:
+- 🏗️ Construction Inspection App — React Native, Redux, Firebase — for US state government
+- 🎓 Scholarship Platform — React Native, Node.js, MongoDB — connecting students, universities, counselors
+- 🍔 Food Delivery App — React Native, Redux, Firebase
+
 ---
 
 # ☁️ AWS Journey
 
 ### Completed
 
-- AWS Cloud Practitioner Essentials
-- AWS Serverless Development and Automation
+- [AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/verify/WMNZ88HJJAU2) — AWS via Coursera
+- [AWS Serverless Development and Automation](https://www.coursera.org/account/accomplishments/verify/C4PEBZ3ITWPE) — AWS via Coursera
 
 ### Currently Learning
 
@@ -120,6 +133,17 @@ Areas of experience include:
 - Amazon Cognito
 - CloudFront
 - GitHub Actions
+
+---
+
+# 🏅 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| [AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/verify/WMNZ88HJJAU2) | AWS via Coursera | 2026 |
+| [AWS Serverless Development and Automation](https://www.coursera.org/account/accomplishments/verify/C4PEBZ3ITWPE) | AWS via Coursera | 2026 |
+| [Meta React Native Specialization](https://www.coursera.org/account/accomplishments/specialization/I91O634CT9NG) | Meta | Oct 2024 |
+| [Meta Front-End Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/5AONP17NGCQZ) | Meta | Oct 2024 |
 
 ---
 
@@ -160,6 +184,25 @@ Areas of experience include:
 - GitHub Actions
 - Bash
 - CI/CD
+
+---
+
+# 🧠 Technical Expertise
+
+| Category | Skills |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | React, Redux, Next.js, HTML/CSS |
+| **Backend** | Node.js, Express, Firebase, MongoDB |
+| **Cloud & AWS** | AWS Lambda, Amazon S3, DynamoDB, API Gateway |
+| **Mobile** | React Native, Flutter, Android, iOS |
+| **Tools** | Git, Figma, Postman, VS Code |
+
+---
+
+# 🤝 Soft Skills
+
+Leadership · Problem Solving · Communication · Teamwork · Adaptability · Time Management · Critical Thinking · Creativity
 
 ---
 
