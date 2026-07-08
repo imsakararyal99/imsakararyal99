@@ -24,7 +24,7 @@ My goal is to combine **React Native**, **AWS**, and **Generative AI** to create
 
 # 🌟 Featured Projects
 
-## 🏔️ Himalayan Nirvana Resort (Tech Lead, Hospitality & Wellness)
+## 🏔️ Himalayan Nirvana Resort (Technology & Digital Strategy Lead)
 
 Leading the digital transformation of a hospitality & wellness startup from pre-launch (opening January 2027).
 
@@ -38,6 +38,7 @@ Leading the digital transformation of a hospitality & wellness startup from pre-
 - Branding
 - System Design
 - Product Strategy
+
 
 **Current Goal**
 Building an AI-powered digital experience for guests using AWS Cloud services.
