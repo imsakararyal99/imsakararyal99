@@ -13,8 +13,8 @@ My goal is to combine **React Native**, **AWS**, and **Generative AI** to create
 ## 🚀 What I'm Working On
 
 - 🌱 New to AWS/cloud — bringing 7+ years of engineering experience into a focused, hands-on cloud-native learning journey
-- 🤖 Building AI-powered applications with AWS
-- ☁️ Learning and implementing Serverless Architecture
+- 🤖 Running a live AI concierge chatbot (OpenAI) for Himalayan Nirvana Resort
+- ☁️ Planning its migration to a serverless AWS architecture
 - 📱 Developing cross-platform mobile applications using React Native
 - 🏔️ Leading technology initiatives for Himalayan Nirvana Resort (Tech Lead, Hospitality & Wellness)
 - ⚡ Exploring automation, DevOps, and AI workflows
@@ -49,39 +49,27 @@ Leading the digital transformation of a hospitality & wellness startup from pre-
 - Product Strategy
 
 **Current Goal**
-Building an AI-powered digital experience for guests using AWS Cloud services.
+Migrating the resort's AI concierge chatbot to a serverless AWS architecture.
 
 ---
 
-## 🤖 AI Concierge (Currently Building)
+## 🤖 AI Concierge Chatbot (Live)
 
-An AI-powered assistant designed for hospitality and tourism.
-
-### Planned AWS Architecture
-
-- Amazon Bedrock
-- AWS Lambda
-- Amazon API Gateway
-- Amazon DynamoDB
-- Amazon Cognito
-- Amazon S3
-- Amazon CloudFront
-
-**Features**
-
-- Personalized travel recommendations
-- AI itinerary generation
-- Guest assistance
-- Local attraction discovery
-- Future mobile integration
-
----
-
-## ⚡ Serverless Resort Inquiry System (In Progress)
-
-My first hands-on AWS project — a serverless guest inquiry system built to apply what I've learned beyond coursework.
+An AI-powered guest assistant live on [hnresort.com](https://hnresort.com), built with the OpenAI API to help guests with inquiries and information.
 
 ### Stack
+
+- OpenAI API
+- Next.js
+- React
+
+---
+
+## ⚡ Serverless Resort Inquiry System (Planned)
+
+Planned migration of the resort's inquiry handling to a serverless AWS architecture — moving beyond the current setup to Lambda, DynamoDB, and API Gateway for lower cost and better scalability. This is my first hands-on AWS project, building directly on my recent AWS coursework.
+
+### Planned Stack
 
 - AWS Lambda (Node.js)
 - Amazon API Gateway
